@@ -8,7 +8,7 @@ public class P {
 
       System.out.println("Lord ganesh");
 
-		System.out.println("God is Great369");
+		System.out.println("God is Great369369");
 
 	}
 
